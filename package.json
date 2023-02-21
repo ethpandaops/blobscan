@@ -15,7 +15,6 @@
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
     "@fontsource/lato": "^4.5.10",
-    "ethers": "^5.7.2",
     "framer-motion": "^6",
     "mongodb": "^4.10.0",
     "next": "12.3.1",
@@ -32,5 +31,6 @@
     "eslint": "8.25.0",
     "eslint-config-next": "12.3.1",
     "typescript": "4.8.4"
-  }
+  },
+  "license": "AGPL-3.0-or-later"
 }
